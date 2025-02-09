@@ -39,5 +39,5 @@ jobs:
          file: ./Dockerfile
          push: true
          tags: |
-           SrXpensive/practica_7.1:latest
+           srxpensive/practica_7.1:latest
            ghcr.io/srxpensive/practica_7.1:latest
